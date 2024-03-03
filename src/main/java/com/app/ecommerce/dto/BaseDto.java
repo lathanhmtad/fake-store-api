@@ -1,4 +1,4 @@
-package com.app.ecommerce.payload;
+package com.app.ecommerce.dto;
 
 import lombok.Getter;
 import lombok.Setter;

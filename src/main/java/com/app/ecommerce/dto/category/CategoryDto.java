@@ -1,6 +1,6 @@
-package com.app.ecommerce.payload.category;
+package com.app.ecommerce.dto.category;
 
-import com.app.ecommerce.payload.BaseDto;
+import com.app.ecommerce.dto.BaseDto;
 import lombok.Getter;
 import lombok.Setter;
 

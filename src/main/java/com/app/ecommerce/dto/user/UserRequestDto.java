@@ -1,4 +1,4 @@
-package com.app.ecommerce.payload.user;
+package com.app.ecommerce.dto.user;
 
 import lombok.Getter;
 import lombok.Setter;

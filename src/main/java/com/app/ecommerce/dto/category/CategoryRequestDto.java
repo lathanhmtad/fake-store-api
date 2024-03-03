@@ -1,4 +1,4 @@
-package com.app.ecommerce.payload.category;
+package com.app.ecommerce.dto.category;
 
 import lombok.Getter;
 import lombok.Setter;

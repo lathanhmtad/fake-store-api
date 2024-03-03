@@ -1,4 +1,4 @@
-package com.app.ecommerce.security;
+package com.app.ecommerce.config.security;
 
 import com.app.ecommerce.entity.Role;
 import com.app.ecommerce.entity.User;

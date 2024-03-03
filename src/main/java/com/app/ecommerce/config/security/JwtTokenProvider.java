@@ -1,4 +1,4 @@
-package com.app.ecommerce.security;
+package com.app.ecommerce.config.security;
 
 import org.springframework.stereotype.Component;
 

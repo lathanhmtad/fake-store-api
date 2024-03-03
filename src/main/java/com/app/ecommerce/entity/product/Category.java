@@ -1,5 +1,6 @@
-package com.app.ecommerce.entity;
+package com.app.ecommerce.entity.product;
 
+import com.app.ecommerce.entity.BaseEntity;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;

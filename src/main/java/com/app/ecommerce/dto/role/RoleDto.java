@@ -1,6 +1,6 @@
-package com.app.ecommerce.payload.role;
+package com.app.ecommerce.dto.role;
 
-import com.app.ecommerce.payload.BaseDto;
+import com.app.ecommerce.dto.BaseDto;
 import com.fasterxml.jackson.annotation.JsonPropertyOrder;
 import lombok.Getter;
 import lombok.Setter;

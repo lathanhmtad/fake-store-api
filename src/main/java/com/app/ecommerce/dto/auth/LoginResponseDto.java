@@ -1,6 +1,5 @@
-package com.app.ecommerce.payload.auth;
+package com.app.ecommerce.dto.auth;
 
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.Setter;
 
